@@ -18,7 +18,7 @@ Detection of Dementia using machine learning and python
 -This project demonstrates the application of machine learning in healthcare for better decision support systems.
 
 
-#Author
+## Author
 Mohammed Faisal Asim
 Faisalasim-123
 
